@@ -1,0 +1,27 @@
+
+.App-header {
+  background-color:yellow;
+  height: 100px;
+  display: flex;
+  align-items: left;
+  color: black;
+padding-left: 40px;
+
+}
+
+.App-body{
+    padding-left: 40px;
+}
+
+.Text-input{
+  width: 20%;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.Button{
+  margin-top: 20px;
+  background-color: green;
+  border-radius: 5px;
+}
+
